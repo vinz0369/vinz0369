@@ -3,9 +3,9 @@
 <h3 align="center">A student from Viet Nam </h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611abf0326a250fbed860e1e4c5461dff0cac23da02&rid=giphy.gif&ct=g">
 
-- 🌱 I’m currently learning : **Python, SQL, Hadoop,...**
+- 🌱 I’m currently learning : **Python, SQL, Hadoop, Solidity,...**
 
-- 💬 Ask me about : **DE**
+- 💬 Ask me about : ****
 
 - 🏫 My university : **Hanoi University of Mining and Geology**
 
